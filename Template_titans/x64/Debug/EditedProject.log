@@ -1,0 +1,45 @@
+﻿  BooK.cpp
+  Library.cpp
+  Container.cpp
+  Dynamic_array.cpp
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(48,29): warning C4018: '>': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(41,52): message : while compiling class template member function 'void DynamicArray<Book>::push_at(size_t,T)'
+          with
+          [
+              T=Book
+          ]
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(3,34): message : see reference to class template instantiation 'DynamicArray<Book>' being compiled
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(84,26): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(83,34): message : while compiling class template member function 'void DynamicArray<Book>::pop(T)'
+          with
+          [
+              T=Book
+          ]
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(114,26): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(113,53): message : while compiling class template member function 'void DynamicArray<Book>::sortasc(std::string)'
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(115,27): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(125,26): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(124,54): message : while compiling class template member function 'void DynamicArray<Book>::sortdesc(std::string)'
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(126,27): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(136,20): warning C4018: '>': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(135,56): message : while compiling class template member function 'void DynamicArray<Book>::reserve(__int64)'
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(24,10): message : see the first reference to 'DynamicArray<Book>::reserve' in 'DynamicArray<Book>::push_front'
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(147,28): warning C4018: '<=': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(146,35): message : while compiling class template member function 'void DynamicArray<Book>::reverse(void)'
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(155,28): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(153,50): message : while compiling class template member function 'void DynamicArray<Book>::merge(T *,__int64)'
+          with
+          [
+              T=Book
+          ]
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(157,31): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(166,28): warning C4018: '<': signed/unsigned mismatch
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\Dynamic_array.cpp(164,33): message : while compiling class template member function 'void DynamicArray<Book>::print(void)'
+  SearchType.cpp
+  DAIterator.cpp
+  Literator.cpp
+  main.cpp
+  linked_list.cpp
+  Generating Code...
+C:\المستندات\DataStructure\DoctorProjects\Template_titans\linked_list.cpp(219): warning C4172: returning address of local variable or temporary: curr
+  EditedProject.vcxproj -> C:\المستندات\DataStructure\DoctorProjects\Template_titans\x64\Debug\EditedProject.exe
