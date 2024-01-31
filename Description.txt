@@ -1,0 +1,10 @@
+>product is implemented by a stack to represent instructions or steps
+>>multiple products are stored in a queue
+>>>we can resize the queue by adding another node when needed
+>>>multiple queues are stored in a linked list where each node represents an operation
+>>>>products move from operation to the other and when a product is popped from an operation to be pushed into the other the products in the previous node are shifted to be in a consecutive order
+
+customer makes the order and asks the factory to create the product
+shiping class gets the product from the factory and returns it to the customer 
+class operation contains the details of an operation
+
